@@ -26,7 +26,7 @@ SECRET_KEY = 'q8b5yosq2xuzbgx^t&&jyiiqgll*f$_ml6#=ijtc+7#h)g&8kj'
 #DEBUG = True
 
 #ALLOWED_HOSTS = []
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS =['ab2.azurewebsites.net']
 
